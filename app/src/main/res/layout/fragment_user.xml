@@ -42,12 +42,13 @@
 	<TextView
 		android:layout_width="300sp"
 		android:layout_height="wrap_content"
-		android:text="跑跑跑跑跑你妹啊跑跑跑跑跑你妹啊跑跑跑跑跑你妹啊"
+		android:text="跑跑跑跑跑"
 		android:id="@+id/user_slogan"
 		android:textColor="@color/gray"
 		android:textSize="20sp"
 		android:layout_centerVertical="true"
-		android:layout_centerHorizontal="true"/>
+		android:layout_centerHorizontal="true"
+		android:gravity="center_horizontal"/>
 
 	<LinearLayout
 		android:orientation="vertical"
